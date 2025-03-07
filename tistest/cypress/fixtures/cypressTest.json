@@ -1,0 +1,23 @@
+{
+    "main_url": "https://passport.yandex.ru/",
+    "none_existent_login": "123123",
+    "login": "npmz",
+    "login_for_rabotadatel": "rabotadatelqqq",
+    "pass_for_rabotadatel" : "Qwerty123",
+    "name_for_rabotadatel" : "Иван",
+    "address_for_rabotadatel" : " г.Томск, ул. Герцена 18",
+    "desc_for_rabotadatel" : "ауцкеауце уе ацукеуцке уае уакецуе н и гшт гшлт нир",
+    "none_existent_name_for_rabotadatel" : "123;",
+    "none_existent_address_for_rabotadatel" : " 123;",
+    "none_existent_desc_for_rabotadatel" : "31№4@",
+    "none_existent_password": "123qwe",
+    "password": "Qwerty321",
+    "email_done": "bugrov.sash@gmail.com",
+    "email_none" : "бугров.саша@gmail.google",
+    "firstName": "Бугров",
+    "lastName" : "Александр",
+    "thirdName": "Алексеевич",
+    "firstName_none": "Bug",
+    "lastName_none" : "sash",
+    "thirdName_none": "alex"
+  }
